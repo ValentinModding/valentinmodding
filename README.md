@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Marcoux</h1>
-<h3 align="center">FullStack Developer from France</h3>
+<h3 align="center">Passionated FullStack Developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
