@@ -9,4 +9,4 @@
 </p>
 
 
-![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinmodding&show_icons=true)
+![Valentin Marcoux's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinmodding&show_icons=true)
